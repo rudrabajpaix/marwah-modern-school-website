@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title description">
+  <title id="title">School building photograph placeholder</title>
+  <desc id="description">A custom architectural illustration shown until the school's real building photograph is supplied.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b8cbd8"/><stop offset="1" stop-color="#edf0e9"/></linearGradient>
+    <linearGradient id="ground" x2="0" y2="1"><stop stop-color="#b9b79b"/><stop offset="1" stop-color="#7e8d77"/></linearGradient>
+    <linearGradient id="wall" x2="0" y2="1"><stop stop-color="#f0e9dc"/><stop offset="1" stop-color="#d5c7b1"/></linearGradient>
+    <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#91b1c2"/><stop offset="1" stop-color="#426279"/></linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="30"/></filter>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1600v900H0z"/>
+  <circle cx="1230" cy="170" r="95" fill="#f3e4c4" opacity=".8"/>
+  <ellipse cx="1060" cy="690" rx="730" ry="180" fill="#c6d0cb" opacity=".7" filter="url(#soft)"/>
+  <path fill="#92a68e" d="M0 590c180-48 322-13 485 25v285H0zM1160 575c174-62 287-23 440 15v315h-440z"/>
+  <path fill="url(#ground)" d="M0 685c340-55 745-19 1600-40v255H0z"/>
+  <path fill="#ede5d7" d="M302 363h1010v340H302z"/>
+  <path fill="url(#wall)" d="M344 320h928v370H344z"/>
+  <path fill="#b79470" d="m284 337 525-175 523 175v38H284z"/>
+  <path fill="#917659" d="m278 338 532-190 533 190-11 20-522-170-522 170z"/>
+  <path fill="#c4b397" d="M390 383h837v33H390zM390 561h837v27H390zM390 670h837v22H390z"/>
+  <path fill="#e3d8c6" d="M783 384h54v305h-54z"/>
+  <g fill="url(#glass)" stroke="#eee5d7" stroke-width="12">
+    <path d="M422 437h91v88h-91zM553 437h91v88h-91zM684 437h66v88h-66z"/>
+    <path d="M850 437h66v88h-66zM956 437h91v88h-91zM1087 437h91v88h-91z"/>
+    <path d="M422 597h91v59h-91zM553 597h91v59h-91zM684 597h66v59h-66z"/>
+    <path d="M850 597h66v59h-66zM956 597h91v59h-91zM1087 597h91v59h-91z"/>
+  </g>
+  <path fill="#10233f" d="M740 579h120v111H740z"/>
+  <path fill="#c7403c" d="M737 574h126v13H737z"/>
+  <path fill="#d9cdb9" d="M294 684h1030v22H294z"/>
+  <path fill="#8f9b79" d="M0 701c310-42 510-12 770 11v188H0z"/>
+  <path fill="#889778" d="M1230 693c154-27 252-10 370 10v197h-370z"/>
+  <g fill="#627b63">
+    <circle cx="219" cy="511" r="54"/><circle cx="176" cy="544" r="48"/><circle cx="256" cy="550" r="50"/>
+    <circle cx="1385" cy="507" r="61"/><circle cx="1335" cy="548" r="45"/><circle cx="1434" cy="552" r="48"/>
+  </g>
+  <g fill="#76624e"><path d="M211 548h15v138h-15zM1378 544h15v145h-15z"/></g>
+  <path fill="#e9e1d3" opacity=".7" d="M0 793c290-60 548-47 792-12s491 41 808-20v17c-315 69-560 46-810 15S280 766 0 812z"/>
+  <rect x="525" y="350" width="575" height="22" rx="2" fill="#10233f"/>
+  <text x="812" y="366" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3" text-anchor="middle">SCHOOL BUILDING PHOTO TO BE ADDED</text>
+</svg>
